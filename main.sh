@@ -1,19 +1,19 @@
 #!/usr/bin/env bash
 
-e() {
+x() {
   echo hi
 }
 
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
