@@ -2,7 +2,7 @@
 
 ## Introduction
 
-NOT kubectl; nothing related to kubernetes
+`nkubectl` === "NOT kubectl"; nothing related to kubernetes
 
 <br/>
 <br/>
